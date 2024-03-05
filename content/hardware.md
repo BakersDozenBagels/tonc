@@ -106,7 +106,7 @@ This section lists the various memory areas. It's basically a summary of the [GB
         <td><code>0300:7FFFh</code></td>
         <td>32 KB</td>
         <td>32 bit</td>
-        <td>This is also available for code and data. The 32-bit bus and the fact it's embedded in the CPU make this the fastest memory section. The 32-bit bus means that ARM instructions can be loded at once, so put your ARM code here.</td>
+        <td>This is also available for code and data. The 32-bit bus and the fact it's embedded in the CPU make this the fastest memory section. The 32-bit bus means that ARM instructions can be loaded at once, so put your ARM code here.</td>
       </tr>
       <tr>
         <th>IO RAM</th>
